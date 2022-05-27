@@ -1,4 +1,4 @@
-name: Github Actions Example
+name: starter-cicd
 
 on:
   pull_request:
